@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "710802704028",
+    "firebase_url": "https://order-food-6efb2.firebaseio.com",
+    "project_id": "order-food-6efb2",
+    "storage_bucket": "order-food-6efb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710802704028:android:421ed110e4244cc2",
+        "android_client_info": {
+          "package_name": "com.nanotrick.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710802704028-44vbu67capuqjlk8ir3810o8g72h6br9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanotrick.orderfood",
+            "certificate_hash": "b7dc4bbf1c794439a83b12b7298d966e10f3c8ab"
+          }
+        },
+        {
+          "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcJv-h9PRG3ZR3wedahHDzCrOyVxvbQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710802704028:android:c0f2ca6037a4feea",
+        "android_client_info": {
+          "package_name": "com.nanotrick.orderfoodservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710802704028-tjihlb4uh36l7eqrmg92tsc3lc88m1sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanotrick.orderfoodservice",
+            "certificate_hash": "b7dc4bbf1c794439a83b12b7298d966e10f3c8ab"
+          }
+        },
+        {
+          "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcJv-h9PRG3ZR3wedahHDzCrOyVxvbQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710802704028:android:bac8f071f047eac5",
+        "android_client_info": {
+          "package_name": "com.nanotrick.ordershipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710802704028-huih2jh3obnse1h1pkgh4oafm9ncddni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanotrick.ordershipper",
+            "certificate_hash": "b7dc4bbf1c794439a83b12b7298d966e10f3c8ab"
+          }
+        },
+        {
+          "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcJv-h9PRG3ZR3wedahHDzCrOyVxvbQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710802704028-otu31b1a9ct0296pekn5lqa0d33r1e91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrderShipper</string>
+    <string name="title_activity_tracking_order">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
